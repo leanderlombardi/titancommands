@@ -1,10 +1,11 @@
 # TitanCommands Language
 Project made in C# by Leander Lombardi
 
+---
 ## Get started
 ---
 **You will need these steps later.**\
---> You need to have a mono installed.\
+-> You need to have a mono installed.\
 If you already have it, execute your program with these steps:
 ### Linux
 ---
@@ -18,7 +19,7 @@ $ chmod +x ./execute.sh
 Else, it will give you an error.
 
 ---
---> If you do not have mono installed, execute these steps first:
+-> If you do not have mono installed, execute these steps first:
 ### Linux
 #### Debian-based systems (e. g. Ubuntu) | apt
 ```bash
