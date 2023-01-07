@@ -40,6 +40,5 @@ then
 	mono out/$filedir.exe
 	rm out/$filepath.exe
 else
-then
 	helpFunction
 fi
